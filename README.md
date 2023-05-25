@@ -5,5 +5,6 @@
 
  Login Page UI
 
-![image](https://github.com/BoostedBanobro/Emerald/assets/72575802/f7b1f009-7c8a-4c20-a649-dd57818674ce)
+![image](https://github.com/BoostedBanobro/Emerald/assets/72575802/c2286c6b-5f65-4bec-b9a4-57e6a11cf66f)
+
 
