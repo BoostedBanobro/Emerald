@@ -9,16 +9,18 @@
 
     <ImageView
         android:id="@+id/app_logo"
-        android:layout_width="3000dp"
-        android:layout_height="300dp"
+        android:layout_marginTop="50dp"
+        android:layout_width="500dp"
+        android:layout_height="150dp"
+        android:layout_centerHorizontal="true"
         android:src="@drawable/emerald2" />
     <EditText
         android:id="@+id/edt_email"
         android:layout_width="match_parent"
         android:layout_height="50dp"
+        android:layout_marginTop="30dp"
         android:background="@drawable/edt_background"
-        android:layout_below="@id/app_logo"
-        android:layout_margin="10dp"
+        android:layout_below="@+id/app_logo"
         android:hint="Email"
         android:paddingLeft="15dp"
         android:layout_marginLeft="20dp"
@@ -29,7 +31,7 @@
         android:layout_height="50dp"
         android:background="@drawable/edt_background"
         android:layout_below="@id/edt_email"
-        android:layout_margin="10dp"
+        android:layout_marginTop = "10dp"
         android:hint="Password"
         android:paddingLeft="15dp"
         android:layout_marginLeft="20dp"
